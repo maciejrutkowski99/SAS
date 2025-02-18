@@ -1,1 +1,1 @@
-A SAS program generating a frequency report of Selected Adverse Events by System Organ Class and Preferred Term
+A SAS program generating a frequency report of selected Adverse Events by System Organ Class and Preferred Term
