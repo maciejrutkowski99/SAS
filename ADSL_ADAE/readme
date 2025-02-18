@@ -1,0 +1,1 @@
+The focus of this program is creating a report of selected Adverse Events by System Organ Class and Preferred Term from ADAE and ADSL datasets, using mainly PROC SQL and PROC TRANSPOSE.
