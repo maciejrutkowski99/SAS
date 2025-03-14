@@ -1,1 +1,3 @@
-The focus of this program is creating a report of selected Adverse Events by System Organ Class and Preferred Term from ADAE and ADSL datasets, using mainly PROC SQL and PROC TRANSPOSE.
+The focus of this program is generating a report for user-selected adverse events by System Organ Class and Preferred Term, based on mock ADSL and ADAE datasets. 
+My goal was to create the program using only SAS, without PROC SQL.
+To change the desired reported adverse events, only adding or removing elements from aelist on line 2 of the code is needed 
